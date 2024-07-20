@@ -1,0 +1,5 @@
+when we add css property html { font-size: 62.5% } how does 1rem become equal to 10px.
+
+rem: root em
+
+16px
